@@ -1,5 +1,4 @@
-
-class Node{
+ class Node{
     int val;
     Node left;
     Node right;
@@ -7,6 +6,7 @@ class Node{
         this.val=val;
     }
 }
+//starts
 class BinaryTree {
     Node root;
     public void insert(int val){
